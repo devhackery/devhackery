@@ -42,3 +42,13 @@ Here are some ideas to get you started:
 
 
 [website]: https://deraghul.site
+[twitter]: https://deraghul.site
+[youtube]: https://deraghul.site
+[instagram]: https://deraghul.site
+[linkedin]: https://deraghul.site
+[webdevplaylist]: https://deraghul.site
+[jsplaylist]: https://deraghul.site
+[cssplaylist]: https://deraghul.site
+[reactplaylist]: https://deraghul.site
+
+ 
