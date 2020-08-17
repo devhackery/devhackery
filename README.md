@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Ruby,Node 
 - 💬 Ask me about RoR,React,Node
 - 📫 How to reach me: connect with me on LinkdIn
-- ⚡ Fun fact: I love to traval and work but ineffective @ COVID-19 weather
+- ⚡ Fun fact: I love to travel and work but ineffective @ COVID-19 weather
 
 
 
