@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning AWS amplify
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working in serverless
+- 🌱 I’m currently learning View Js
+- 👯 I’m looking to collaborate on serverless
 - 🤔 I’m looking for help with Ruby,Node 
-- 💬 Ask me about RoR,React,Node
+- 💬 Ask me about RoR,React,Node,serverless
 - 📫 How to reach me: connect with me on LinkdIn
 - ⚡ Fun fact: I love to travel and work but ineffective @ COVID-19 weather
 
